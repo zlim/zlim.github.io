@@ -1,0 +1,12 @@
+# Site settings
+title: Zi's Notes
+email: z@zishenlim.com
+description: > # this means to ignore newlines until "baseurl:"
+  Zi's Notes
+baseurl: ""
+url: "http://zishenlim.com"
+twitter_username: zishenlim
+github_username:  zlim
+
+# Build settings
+markdown: kramdown
